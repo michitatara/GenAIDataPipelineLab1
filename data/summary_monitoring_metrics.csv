@@ -1,0 +1,111 @@
+nonnull,cc,duplicatecount,missingcolumns
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
+"<bound method DataFrame.count of                team environment      service        metric  value            timestamp
+0  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+1  Compute Platform        prod  api-gateway  memory_usage   81.2  2026-10-09T09:00:00
+2           Storage        prod  storage-api    latency_ms  145.0  2026-10-09T09:01:00
+3          Database        prod  postgres-db     cpu_usage   68.4  2026-10-09T09:02:00
+4  Compute Platform         dev  api-gateway     cpu_usage   35.2  2026-10-09T09:03:00
+5           Storage        prod  storage-api    error_rate    2.4  2026-10-09T09:04:00
+6          Database        prod  postgres-db   connections  120.0  2026-10-09T09:05:00
+7  Compute Platform        prod  api-gateway     cpu_usage   72.5  2026-10-09T09:00:00
+8           Storage        prod  storage-api    latency_ms    NaN  2026-10-09T09:06:00
+9          Database        prod  postgres-db  memory_usage   91.7  2026-10-09T09:07:00>",8,1,False
